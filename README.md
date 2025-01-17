@@ -13,9 +13,23 @@
 - Topics: Array, Monotonic Stack
 - Date Solved: January 16, 2024
 - Notes:
+
   - Learned about array traversal and comparison
   - Understanding how to process sequential discounts
   - Working with nested loops for price comparisons
   - Using break statement efficiently
   - Building result array iteratively
   - Edge case handling (last element, no discount cases)
+
+  ### [1051. Height Checker](https://leetcode.com/problems/height-checker/)
+
+  - Difficulty : Easy
+  - Topics : Array, Sorting, Counting
+  - Date Solved: January 17, 2024
+  - Notes:
+    - Learned about array sorting with sorted()
+    - Understanding non-decreasing order
+    - Array comparison techniques
+    - Handling duplicate values in arrays
+    - Simple counter implementation
+    - Creating reference array through sorting
