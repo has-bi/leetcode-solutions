@@ -21,15 +21,32 @@
   - Building result array iteratively
   - Edge case handling (last element, no discount cases)
 
-  ### [1051. Height Checker](https://leetcode.com/problems/height-checker/)
+### [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 
-  - Difficulty : Easy
-  - Topics : Array, Sorting, Counting
-  - Date Solved: January 17, 2024
-  - Notes:
-    - Learned about array sorting with sorted()
-    - Understanding non-decreasing order
-    - Array comparison techniques
-    - Handling duplicate values in arrays
-    - Simple counter implementation
-    - Creating reference array through sorting
+- Difficulty : Easy
+- Topics : Array, Sorting, Counting
+- Date Solved: January 17, 2024
+- Notes:
+  - Learned about array sorting with sorted()
+  - Understanding non-decreasing order
+  - Array comparison techniques
+  - Handling duplicate values in arrays
+  - Simple counter implementation
+  - Creating reference array through sorting
+
+### [500. Keyboar Row](https://leetcode.com/problems/keyboard-row/)
+
+- Difficulty : Easy
+- Topics : Array, Hash Table, String
+- Date Solved: January 18, 2024
+- Notes:
+  - Learned about set operations in Python
+  - Understanding case-insensitive string handling
+  - Using issubset() for efficient checking
+  - Converting strings to sets for comparison
+  - Working with multiple string comparisons
+  - Importance of data preprocessing (converting to lowercase)
+  - Using lists for collecting filtered results
+  - Leveraging Python's built-in string methods
+  - Understanding when to use sets vs lists
+  - Handling input validation and edge cases
