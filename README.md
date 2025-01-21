@@ -50,3 +50,36 @@
   - Leveraging Python's built-in string methods
   - Understanding when to use sets vs lists
   - Handling input validation and edge cases
+
+### [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+- Difficulty: Easy
+- Topics: Array, Two Pointers
+- Date Solved: January 18, 2024
+- Notes:
+  - Learned about in-place array modification
+  - Understanding two-pointer technique
+  - Working with sorted arrays
+  - Handling duplicates efficiently
+  - Importance of array traversal order
+  - Managing array indices carefully
+  - Using previous element comparison
+  - Understanding when elements can be overwritten
+  - Handling edge cases (empty array)
+  - Maintaining relative order of elements
+
+### [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
+
+- Difficulty: Easy
+- Topics: Array, Two Pointers
+- Date Solved: January 18, 2024
+- Notes:
+  - Learned about in-place array modification
+  - Understanding array filtering
+  - Using single pointer technique
+  - No need to maintain order
+  - Counter doubles as position tracker
+  - Efficient element removal
+  - Handling repeated elements
+  - Understanding array overwriting
+  - Edge case handling (empty array, all elements are val)
