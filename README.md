@@ -83,3 +83,15 @@
   - Handling repeated elements
   - Understanding array overwriting
   - Edge case handling (empty array, all elements are val)
+
+### [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+
+- Difficulty: Easy
+- Topics: Binary Search
+- Date Solved: January 23, 2024
+
+### [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)
+
+- Difficulty: Easy
+- Topics: String
+- Date Solved: January 24, 2024
